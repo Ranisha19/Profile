@@ -24,17 +24,8 @@ With 10+ years of experience in QA Automation and a recent graduate diploma in *
 
 ## 📊 Featured Data Projects
 
-🔹 **[Airline Review Analysis – British Airways](https://github.com/yourusername/airline-review-analysis)**  
-Used web scraping, NLP, and predictive modeling to identify key factors influencing customer sentiment.  
-_Tools: Python, BeautifulSoup, scikit-learn, Power BI_
+🔗 Check it out here: https://ranisha2023.wixsite.com/show  
 
-🔹 **[Academic Dashboard – Student Performance Insight](https://github.com/yourusername/student-performance-dashboard)**  
-Built a Power BI dashboard to visualize trends and correlations in student scores, attendance, and demographics.  
-_Tools: Excel, Power BI, SQL_
-
-🔹 **[Stock Market Prediction System](https://github.com/yourusername/stock-prediction-ml)**  
-Applied machine learning models to forecast stock trends based on historical data.  
-_Tools: Python, Pandas, scikit-learn_
 
 ---
 
@@ -52,6 +43,13 @@ _Tools: Python, Pandas, scikit-learn_
 Outside of tech, I enjoy 🎵 music, streaming 🎬 movies, and mentoring students in data analytics.
 
 ---
+🔗 Explore my portfolio here: (https://ranisha2023.wixsite.com/show)  
+📂 Check out my GitHub README:(https://github.com/ranisha2023/ranisha2023)  
+🌐 Connect with me: (https://www.linkedin.com/in/ranisha/)
+
+Looking forward to collaborating with fellow data enthusiasts and tech professionals. Let’s turn data into actionable insights! 💡
+
+#DataAnalytics #GitHubPortfolio #CareerTransition #PowerBI #Python #WomenInTech
 
 ⭐ _Let’s connect and collaborate on transforming data into actionable insights!_
 
